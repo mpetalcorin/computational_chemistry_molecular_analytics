@@ -288,7 +288,7 @@ Key references include:
 
 ## Author
 
-Mark Ihrwell R. Petalcorin, PhD
+Mark I.R. Petalcorin, PhD
 
-This repository was prepared as a computational chemistry and AI-enabled drug discovery portfolio project.
+This repository was prepared as a computational chemistry and AI-enabled drug discovery project.
 
