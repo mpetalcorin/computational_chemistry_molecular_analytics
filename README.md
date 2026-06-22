@@ -1,10 +1,11 @@
+
 # GROMACS, QSAR, OpenEye and Molecular Docking Demo
 
 This repository contains a computational chemistry notebook for drug discovery. It demonstrates, using simulated data, how scientists can use computer-based methods to study molecules, predict drug-like behaviour, and prioritise compounds for testing.
 
 The project is designed for learning purposes. It does not require paid commercial software. The notebook uses simulated molecular values that are kept within realistic ranges commonly seen in computational drug discovery studies.
 
----
+<img width="1536" height="1024" alt="GROMACS Molecular Dynamics" src="https://github.com/user-attachments/assets/b72c29d6-9e33-4265-9f64-396e7f35647b" />
 
 ## Project Goal
 
