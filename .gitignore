@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Jupyter
+*.nbconvert.ipynb
+
+# Mac
+.DS_Store
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+
+# Large molecular simulation files, uncomment if needed
+# *.xtc
+# *.trr
+# *.tpr
+# *.edr
+# *.cpt
+# *.gro
+# *.pdb
+# *.pdbqt
+
+# Figures can be tracked, but ignore if you prefer
+# figures/

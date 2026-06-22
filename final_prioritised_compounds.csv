@@ -1,0 +1,13 @@
+compound_id,series,pIC50,IC50_nM,docking_score_kcal_mol,FEP_ddG_kcal_mol,MD_mean_RMSD_proxy_nm,MD_ligand_retention_proxy,combo_similarity,ADMET_flag,integrated_priority_score
+CMPD_0161,B_pyridine_core,9.8,0.158,-11.251,-3.101,0.242,1.0,0.835,acceptable,24.692
+CMPD_0235,A_urea_core,9.052,0.886,-11.735,-2.527,0.211,0.953,0.75,acceptable,23.522
+CMPD_0174,A_urea_core,9.019,0.956,-11.357,-2.462,0.243,0.915,0.922,acceptable,23.433
+CMPD_0107,B_pyridine_core,9.193,0.641,-11.399,-2.288,0.241,0.905,0.667,acceptable,23.223
+CMPD_0149,A_urea_core,8.768,1.706,-10.846,-3.131,0.264,0.915,0.733,acceptable,23.179
+CMPD_0024,B_pyridine_core,9.18,0.66,-10.847,-2.525,0.194,1.0,0.809,acceptable,23.178
+CMPD_0202,A_urea_core,9.433,0.369,-10.562,-2.112,0.206,1.0,0.924,acceptable,23.064
+CMPD_0005,A_urea_core,9.162,0.688,-10.485,-2.333,0.22,1.0,0.867,acceptable,22.918
+CMPD_0118,A_urea_core,8.828,1.486,-10.647,-2.648,0.269,0.969,0.909,acceptable,22.85
+CMPD_0188,B_pyridine_core,8.868,1.356,-10.262,-2.685,0.199,0.938,0.813,acceptable,22.789
+CMPD_0049,B_pyridine_core,8.713,1.936,-10.2,-2.63,0.232,0.934,0.818,acceptable,22.554
+CMPD_0066,B_pyridine_core,8.523,2.997,-10.018,-3.2,0.254,0.983,0.726,acceptable,22.439
